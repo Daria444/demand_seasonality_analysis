@@ -1,4 +1,4 @@
-# demand_seasonality_analysis
+# Demand seasonality analysis
 ---
 This repository contains notebooks that I created in the process of working on my bachelor's thesis on the topic "Seasonal demand for goods in FMCG stores.
 
