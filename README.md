@@ -9,11 +9,11 @@ A set of software functions of the algorithm for preparing data, calculating and
 
 ## dash.py
 
-Creating a dashboard using Python framework Dash. The dashboard demonstrates the result of the software algorithm for analyzing the seasonality of demand.
+Creating a dashboard using Python framework Dash. The dashboard demonstrates the result of the algorithm for analyzing the seasonality of demand.
 
 ## dash_functions.py
 
-A set of software functions for updating dashboard elements to analyze the seasonality of demand.
+A set of functions for updating dashboard elements to analyze the seasonality of demand.
 
 ---
 
@@ -28,8 +28,8 @@ A set of software functions for updating dashboard elements to analyze the seaso
 
 ## dash.py
 
-Создание дашборда с использованием Python фреймворка Dash. Дашборд демонстрирует результат работы программного алгоритма для анализа сезонности спроса.
+Создание дашборда с использованием Python фреймворка Dash. Дашборд демонстрирует результат работы алгоритма для анализа сезонности спроса.
 
 ## dash_functions.py
 
-Набор программных функций для обновления элементов дашборда для анализа сезонности спроса.
+Набор функций для обновления элементов дашборда для анализа сезонности спроса.
